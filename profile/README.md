@@ -7,7 +7,8 @@ Welcome to the GitHub organization of `My Neighbor Alice`. Here, we build and ma
 Have questions or want to get in touch? Here's how:
 
 -  Email: `hello@myneighboralice.com`
--  Website: `myneighboralice.com`
+-  Website: [`myneighboralice.com`](myneighboralice.com)
+-  Dashboard and marketplace: [`https://play.myneighboralice.com`](https://play.myneighboralice.com)
 
 ## Follow us
 
